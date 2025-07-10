@@ -6,12 +6,12 @@ An app tailored for CV optimisation and application insights using GPT-4o-mini
 
 ### Core Functionality:
 
-CV-Job Matching Analysis - Compares uploaded CV against job requirements to identify relevant experience and skills alignment
-Skill Gap Identification - Automatically detects missing skills and qualifications between candidate profile and job requirements
-Learning Recommendations - Provides specific guidance and resources for bridging identified skill gaps
-Tailored CV Optimization - Generates customized bullet points emphasizing relevant experience for the specific role
-Cover Letter Guidance - Suggests targeted talking points based on CV content and job requirements
-Salary Estimation - Provides market-based salary range predictions considering location, role level, and requirements
+#### CV-Job Matching Analysis - Compares uploaded CV against job requirements to identify relevant experience and skills alignment
+#### Skill Gap Identification - Automatically detects missing skills and qualifications between candidate profile and job requirements
+#### Learning Recommendations - Provides specific guidance and resources for bridging identified skill gaps
+#### Tailored CV Optimization - Generates customized bullet points emphasizing relevant experience for the specific role
+#### Cover Letter Guidance - Suggests targeted talking points based on CV content and job requirements
+#### Salary Estimation - Provides market-based salary range predictions considering location, role level, and requirements
 
 ### User Experience:
 
